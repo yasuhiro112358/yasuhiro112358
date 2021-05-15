@@ -1,6 +1,14 @@
-Hi, I'm Yasuhiro<br>
-Now create this Github account<br>
-I'm interesting in VBA 
+Hi, I'm Yasuhiro.<br>
+Now create this Github account.<br>
+
+I'm learning the languages below.
+
+- HTML
+- CSS
+- Javascript
+- SQL
+- VBA
+
 
 
 <!---
