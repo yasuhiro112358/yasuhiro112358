@@ -3,6 +3,7 @@ Now create this Github account.<br>
 
 I'm learning the languages below.
 
+- Python
 - HTML
 - CSS
 - Javascript
