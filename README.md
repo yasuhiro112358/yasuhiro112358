@@ -3,8 +3,8 @@ yasuhiro112358/yasuhiro112358 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi, I'm Yasuhiro. 
-After building a career in the railway construction industry, I am brushing up on programming for a career change to the IT industry. 
+Hi, I'm Yasuhiro.  
+After building a career in the railway construction industry, I am brushing up on programming for a career change to the IT industry.  
 Additionally, I can handle English and Japanese translation tasks, so please let me know if you need any!
 
 ### Experience
