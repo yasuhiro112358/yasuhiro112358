@@ -10,6 +10,9 @@ Additionally, I can handle English and Japanese translation tasks, so please let
 ### Experience
 - Developed a program for the time-history vibration analysis of buildings (MATLAB, Fortran)
 - Created automation programs for office tasks (VBA)
+- Lived in Sydney, Australia for a year for:
+- Research on effective and efficient English learning methods using SRS (Spaced Repetition System)
+- Research on English learning methods using generative AI
 
 ### Learning
 - Ruby
