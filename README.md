@@ -4,8 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Hi, I'm Yasuhiro.  
-After building a career in the railway construction industry, I am brushing up on programming for a career change to the IT industry.  
+I am brushing up on programming for a career change to the IT industry after building a career in the railway construction industry.  
 Additionally, I can handle English and Japanese translation tasks, so please let me know if you need any!
+
+### GitHub Pages
+https://yasuhiro112358.github.io/
 
 ### Experience
 - Developed a program for the time-history vibration analysis of buildings (MATLAB, Fortran)
@@ -15,8 +18,9 @@ Additionally, I can handle English and Japanese translation tasks, so please let
 - Research on English learning methods using generative AI
 
 ### Learning
-- Ruby
-- Ruby on Rails
+- PHP
+- Laravel
+- SQL
 - MySQL
 - Python
 - JavaScript
