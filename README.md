@@ -7,7 +7,7 @@ Hi, I'm Yasuhiro.
 I am brushing up on programming for a career change to the IT industry after building a career in the railway construction industry.  
 Additionally, I can handle English and Japanese translation tasks, so please let me know if you need any!
 
-### GitHub Pages
+### GitHub Pages (with Portfolio)
 https://yasuhiro112358.github.io/
 
 ### Experience
