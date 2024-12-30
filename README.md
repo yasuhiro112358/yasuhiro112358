@@ -19,9 +19,10 @@ Additionally, I'm capable of handling English and Japanese translation tasks, so
 - Research on English learning methods using generative AI
 
 ## Skills
-- Languages: PHP | JavaScript | Python | Java | C# | C | VBA | MATLAB | Fortran | SQL 
+- Languages: PHP | JavaScript | Python | Java | C# | C | VBA | MATLAB | Fortran | SQL | HTML/CSS
 - Databases: MySQL | SQLite
 - Frameworks: Laravel | Google Chrome Extension
+- Infrastructures: AWS EC2 | AWS RDS | Docker | MAMP | Xserver
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuhiro112358&layout=compact&hide=html,blade,dockerfile,matlab)](https://github.com/anuraghazra/github-readme-stats)
 
