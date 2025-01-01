@@ -29,5 +29,5 @@ https://newtralize.com/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasuhiro112358&hide=prs,issues,contribs&show_icons=true&hide_rank=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuhiro112358&layout=pie&hide=html,blade,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuhiro112358&layout=pie&langs_count=20&hide=blade,html,dockerfile,css,makefile,shell,hack,scss,procfile,vimscript)](https://github.com/anuraghazra/github-readme-stats)
 
