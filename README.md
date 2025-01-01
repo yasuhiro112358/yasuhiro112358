@@ -24,7 +24,10 @@ Additionally, I'm capable of handling English and Japanese translation tasks, so
 - Frameworks: Laravel | Google Chrome Extension
 - Infrastructures: AWS EC2 | AWS RDS | Docker | MAMP | Xserver
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuhiro112358&layout=pie&hide=html,blade,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Portfolio
 https://newtralize.com/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasuhiro112358&hide=prs,issues,contribs&show_icons=true&hide_rank=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuhiro112358&layout=pie&hide=html,blade,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+
